@@ -19,4 +19,4 @@ Asks the user for a sentence, then shows the word count and the character count
 ## Limitation
 The character count includes leading, trailing and repeated spaces, so it can
 look larger than the visible text. Also, words are separated only by whitespace,
-so "well-known" counts as one word.
+so "well-known" counts as one word."# ainunnfatmaa" 
